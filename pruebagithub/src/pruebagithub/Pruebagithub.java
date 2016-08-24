@@ -17,6 +17,8 @@ public class Pruebagithub {
     public static void main(String[] args) {
         
         System.out.println("HOLA MUNDO");
+        
+        System.out.println("ESTA ES UNA PRUEBA PARA GITHUB");
     }
     
 }
